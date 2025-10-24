@@ -1,1 +1,1 @@
-# c-guessing number
+this is updated readme
